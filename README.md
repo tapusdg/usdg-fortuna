@@ -23,3 +23,8 @@ https://t.me/usdggold
 
 Bot:
 https://t.me/usdg_fortuna_bot
+Live Application:
+https://usdg-tap.com/fortuna-v2/
+
+API:
+https://usdg-tap.com/fortuna-api/
