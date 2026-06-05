@@ -28,3 +28,23 @@ https://usdg-tap.com/fortuna-v2/
 
 API:
 https://usdg-tap.com/fortuna-api/
+
+# Security
+
+USDG Fortuna is powered by USDG Gold.
+
+Security references:
+
+- Dessert Finance Audit
+- Blockaid Verification
+- Verified Smart Contracts
+- Ownership Renounced
+
+Contract repository:
+https://github.com/tapusdg/usdg-contracts
+
+Official Website:
+https://usdgdefi.com
+
+CoinMarketCap:
+https://coinmarketcap.com/currencies/usdgold/
