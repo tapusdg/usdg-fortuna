@@ -48,3 +48,17 @@ https://usdgdefi.com
 
 CoinMarketCap:
 https://coinmarketcap.com/currencies/usdgold/
+
+# Documentation
+
+Whitepaper:
+https://github.com/tapusdg/usdg-whitepaper
+
+Security Repository:
+https://github.com/tapusdg/usdg-contracts
+
+Official Website:
+https://usdgdefi.com
+
+CoinMarketCap:
+https://coinmarketcap.com/currencies/usdgold/
